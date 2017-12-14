@@ -1,0 +1,117 @@
+body {
+  padding-bottom: 40px;
+  width: 100%;
+  margin: 0 auto;
+  background-image: url("../images/dark_geometric_@2X.png");
+}
+
+h1 {
+  font-family: 'Spirax', cursive;
+  color: white;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.instructions {
+  color: green;
+  padding: 30px;
+  font-weight: bold;
+}
+
+.bg-brown{
+  background: #c97233;
+}
+
+.bg-almond{
+  background: #fae6ce;
+}
+
+.report {
+  background: aquamarine;
+}
+
+.scores {
+  padding: 30px;
+  background: green;
+}
+
+.total-score {
+  background: #4aaaa5;
+  color: white;
+}
+
+.img-icon {
+  width: 10%;
+  background: white;
+  display: inline;
+}
+
+
+
+
+/*
+h4 {
+  padding: 10px 0;
+}
+
+img {
+  margin: 30px;
+  border: 2px solid #666666;
+}*/
+
+/*.banner {
+  border: none;
+  width: 80%;
+  height: 50%;
+  margin: 0 auto;
+  opacity: 0.6;
+}
+
+.border {
+  border: 1px solid #666666;
+}
+
+.text-decor {
+  color: blue;
+}
+
+.text-nondecor {
+  color: black;
+}
+
+.letter-decor {
+  width: 30px;
+  height: 30px;
+  border-style: solid;
+  padding: 2px;
+  margin: 2px;
+}
+
+.button-text-decor {
+  color: blue;
+  text-shadow: 5px 2px yellow;
+  background: #eee;
+  display: inline-block;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+
+.footer {
+  position: absolute;
+  background: #888;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  height: 60px;
+  bottom: 0;
+  width: 100%;
+}*/
